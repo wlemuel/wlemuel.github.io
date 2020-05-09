@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wlemuel.github.io/tags/linux/</loc>
+    <lastmod>2020-05-09T15:36:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wlemuel.github.io/series/linux/</loc>
+    <lastmod>2020-05-09T15:36:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wlemuel.github.io/2020/05/09/make-teamviewer-work-on-arch-linux/</loc>
+    <lastmod>2020-05-09T15:36:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wlemuel.github.io/posts/</loc>
+    <lastmod>2020-05-09T15:36:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wlemuel.github.io/series/</loc>
+    <lastmod>2020-05-09T15:36:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wlemuel.github.io/tags/</loc>
+    <lastmod>2020-05-09T15:36:08+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wlemuel.github.io/about/</loc>
     <lastmod>2020-05-09T11:49:22+08:00</lastmod>
   </url>
@@ -14,14 +44,6 @@
   
   <url>
     <loc>https://wlemuel.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://wlemuel.github.io/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://wlemuel.github.io/tags/</loc>
   </url>
   
 </urlset>

@@ -6,9 +6,19 @@
     <description>Recent content in Series on To be the Light - Steve Lemuel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 09 May 2020 15:36:08 +0800</lastBuildDate>
     
 	<atom:link href="https://wlemuel.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Linux</title>
+      <link>https://wlemuel.github.io/series/linux/</link>
+      <pubDate>Sat, 09 May 2020 15:36:08 +0800</pubDate>
+      
+      <guid>https://wlemuel.github.io/series/linux/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
