@@ -21,11 +21,8 @@ some files.&lt;/p>
 &lt;span style="color:#007f7f"># du: cannot access ‘/proc/13476/fdinfo/4’: No such file or directory&lt;/span>
 &lt;span style="color:#007f7f"># 1.3G /usr/local/mysql/bin&lt;/span>
 &lt;span style="color:#007f7f"># 1008M /usr/local/mysql/lib&lt;/span>
-&lt;span style="color:#007f7f"># 889M /data/wyvern/logs/celery&lt;/span>
-&lt;span style="color:#007f7f"># 686M /data/wyvern/qcard&lt;/span>
 &lt;span style="color:#007f7f"># 622M /root/oneinstack/src&lt;/span>
 &lt;span style="color:#007f7f"># 497M /var/log/journal/a9fe31fd96c841a5a16f9c54110b66cc&lt;/span>
-&lt;span style="color:#007f7f"># 180M /data/wyvern&lt;/span>
 &lt;span style="color:#007f7f"># 174M /boot&lt;/span>
 &lt;span style="color:#007f7f"># 121M /data/mysql&lt;/span>
 &lt;span style="color:#007f7f"># 114M /usr/lib64&lt;/span>
