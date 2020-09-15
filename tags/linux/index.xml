@@ -1,24 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Linux on To be the Light</title><link>https://wlemuel.github.io/tags/linux/</link><description>Recent content in Linux on To be the Light</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 09 Mar 2020 15:36:08 +0800</lastBuildDate><atom:link href="https://wlemuel.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml"/><item><title>Make TeamViewer Work on Arch Linux</title><link>https://wlemuel.github.io/2020/03/09/make-teamviewer-work-on-arch-linux/</link><pubDate>Mon, 09 Mar 2020 15:36:08 +0800</pubDate><guid>https://wlemuel.github.io/2020/03/09/make-teamviewer-work-on-arch-linux/</guid><description>&lt;h1 id="problem-description">Problem Description&lt;/h1>
-&lt;p>I was trying to setup TeamViewer 15.4 on Arch (manjaro) Linux in office, so that I could remotely connect to it from my home computer, which is a MacBook also running TeamViewer. I had all the login credentials and stuff, but TeamViewer on ArchLinux said &amp;ldquo;Not Ready, Please check your connection&amp;rdquo;. It won&amp;rsquo;t allow me to log in or attempt to connect to anything.&lt;/p>
-&lt;p>Then I checked the Internet connection, all worked fine. Also I didn&amp;rsquo;t have a firewall for outgoing connections. I didn&amp;rsquo;t know what to look for in the logfile, I saw things like&lt;/p>
-&lt;div class="highlight">&lt;pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-fallback" data-lang="fallback">2020/05/08 19:45:48.696 30134 -- GX0 Opening Local TCP connection to 127.0.0.1:5670, tcp?
-2020/05/08 19:45:48.697 30134 -- GX0!! Local TCP connection failed with error 111
-&lt;/code>&lt;/pre>&lt;/div>&lt;p>and&lt;/p>
-&lt;div class="highlight">&lt;pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-fallback" data-lang="fallback">2020/05/08 19:45:58.695 30134 -- GX0!! WorkingProxyListener::WorkingProxyResultHandler failed: 1
-2020/05/08 19:45:58.695 30134 -- GX0! WorkingProxyListener::WorkingProxyResultHandler: setting default value ProxyType::Undefined
-&lt;/code>&lt;/pre>&lt;/div>&lt;p>I had tried a lot without success:&lt;/p>
-&lt;ul>
-&lt;li>Setting DNS to google servers&lt;/li>
-&lt;li>systemctl restart &lt;code>teamviwerd&lt;/code>&lt;/li>
-&lt;li>kill all &lt;code>teamviewerd&lt;/code> to make sure it is good and dead, then restart&lt;/li>
-&lt;li>google searches on the topic.&lt;/li>
-&lt;/ul>
-&lt;h1 id="solution">Solution&lt;/h1>
-&lt;ol>
-&lt;li>Sign into TeamViewer website using work email and password&lt;/li>
-&lt;li>AUthorize the computer using the email sent to my account.&lt;/li>
-&lt;li>sudo killall &lt;code>teamviewerd&lt;/code>&lt;/li>
-&lt;li>systemctl restart &lt;code>teamviewerd&lt;/code>&lt;/li>
-&lt;li>start the UI&lt;/li>
-&lt;/ol>
-&lt;p>Note that it was necessary to start the teamviewerd service separately, as a step preceding the TeamViewer UI, Without doing this the UI does not connect, But I think the key was the device authorization.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Linux on To be the Light</title><link>https://wlemuel.github.io/tags/linux/</link><description>Recent content in Linux on To be the Light</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 09 Mar 2020 15:36:08 +0800</lastBuildDate><atom:link href="https://wlemuel.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml"/><item><title>Make TeamViewer Work on Arch Linux</title><link>https://wlemuel.github.io/2020/03/09/make-teamviewer-work-on-arch-linux/</link><pubDate>Mon, 09 Mar 2020 15:36:08 +0800</pubDate><guid>https://wlemuel.github.io/2020/03/09/make-teamviewer-work-on-arch-linux/</guid><description>Problem Description I was trying to setup TeamViewer 15.4 on Arch (manjaro) Linux in office, so that I could remotely connect to it from my home computer, which is a MacBook also running TeamViewer. I had all the login credentials and stuff, but TeamViewer on ArchLinux said &amp;ldquo;Not Ready, Please check your connection&amp;rdquo;. It won&amp;rsquo;t allow me to log in or attempt to connect to anything.
+Then I checked the Internet connection, all worked fine.</description></item></channel></rss>
