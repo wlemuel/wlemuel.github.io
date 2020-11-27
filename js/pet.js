@@ -1,7 +1,7 @@
 // https://l2dwidget.js.org/docs/class/src/index.js~L2Dwidget.html
 if(window.L2Dwidget) {
-    let darkPath = 'js/live2d/hijiki/hijiki.model.json';
-    let lightPath = 'js/live2d/tororo/tororo.model.json';
+    let darkPath = '/js/live2d/hijiki/hijiki.model.json';
+    let lightPath = '/js/live2d/tororo/tororo.model.json';
 
     let config = {
         model: {
