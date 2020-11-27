@@ -7,14 +7,14 @@ if (window.L2Dwidget) {
         // var footer = document.getElementsByTagName("footer")[0];
         // var hr = footer.getElementsByTagName("hr")[0];
         // return hr.offsetLeft - 5;
-        return 10;
+        return -3;
     }
 
     function calVOffset() {
         // var footer = document.getElementsByTagName("footer")[0];
         // var clientHeight = document.body.clientHeight;
         // return clientHeight - footer.offsetTop - 34;
-        return 0;
+        return -34;
 
     }
 
