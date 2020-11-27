@@ -4,16 +4,17 @@ if (window.L2Dwidget) {
     let lightPath = "js/live2d/tororo/tororo.model.json";
 
     function calHOffset() {
-        var footer = document.getElementsByTagName("footer")[0];
-        var hr = footer.getElementsByTagName("hr")[0];
-        return hr.offsetLeft - 5;
+        // var footer = document.getElementsByTagName("footer")[0];
+        // var hr = footer.getElementsByTagName("hr")[0];
+        // return hr.offsetLeft - 5;
+        return 10;
     }
 
     function calVOffset() {
-        var footer = document.getElementsByTagName("footer")[0];
-        // var hr = footer.getElementsByTagName("hr")[0];
-        var clientHeight = document.body.clientHeight;
-        return clientHeight - footer.offsetTop - 34;
+        // var footer = document.getElementsByTagName("footer")[0];
+        // var clientHeight = document.body.clientHeight;
+        // return clientHeight - footer.offsetTop - 34;
+        return 0;
 
     }
 
