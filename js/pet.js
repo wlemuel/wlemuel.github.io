@@ -13,7 +13,7 @@ if (window.L2Dwidget) {
         var footer = document.getElementsByTagName("footer")[0];
         // var hr = footer.getElementsByTagName("hr")[0];
         var clientHeight = document.body.clientHeight;
-        return clientHeight - footer.offsetTop - 36;
+        return clientHeight - footer.offsetTop - 34;
 
     }
 
