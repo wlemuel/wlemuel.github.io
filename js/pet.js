@@ -4,17 +4,17 @@ if (window.L2Dwidget) {
     let lightPath = "js/live2d/tororo/tororo.model.json";
 
     function calHOffset() {
-        // var footer = document.getElementsByTagName("footer")[0];
-        // var hr = footer.getElementsByTagName("hr")[0];
-        // return hr.offsetLeft - 5;
-        return -3;
+        var footer = document.getElementsByTagName("footer")[0];
+        var hr = footer.getElementsByTagName("hr")[0];
+        return hr.offsetLeft - 5;
+        // return -3;
     }
 
     function calVOffset() {
-        // var footer = document.getElementsByTagName("footer")[0];
-        // var clientHeight = document.body.clientHeight;
-        // return clientHeight - footer.offsetTop - 34;
-        return -34;
+        var footer = document.getElementsByTagName("footer")[0];
+        var clientHeight = document.body.clientHeight;
+        return clientHeight - footer.offsetTop - 34;
+        // return -34;
 
     }
 
@@ -35,7 +35,7 @@ if (window.L2Dwidget) {
         },
         mobile: {
             show: true, // 是否在移动设备上显示
-            scale: 1, // 移动设备上的缩放
+            scale: 0.8, // 移动设备上的缩放
             motion: true, // 移动设备是否开启重力感应
         },
         react: {
