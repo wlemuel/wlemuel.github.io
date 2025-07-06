@@ -1,3 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Programming on To be the Light</title><link>https://wlemuel.github.io/series/programming/</link><description>Recent content in Programming on To be the Light</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 09 Feb 2023 18:26:21 +0800</lastBuildDate><atom:link href="https://wlemuel.github.io/series/programming/index.xml" rel="self" type="application/rss+xml"/><item><title>Custom Annotations in Java: Creating and using your own annotations</title><link>https://wlemuel.github.io/2023/02/09/custom-annotations-in-java-creating-and-using-your-own-annotations/</link><pubDate>Thu, 09 Feb 2023 18:26:21 +0800</pubDate><guid>https://wlemuel.github.io/2023/02/09/custom-annotations-in-java-creating-and-using-your-own-annotations/</guid><description>1. Introduction to Annotations in Java Annotations in Java are metadata that provide additional information about a program element, such as a class, method, or field. Annotations are used to provide information to the compiler or to other tools, such as code generators or libraries, and can be used for a variety of purposes, including defining access control, providing information about dependencies, or specifying runtime behavior.
-In Java, annotations are created using the @interface keyword and can be applied to any program element that is annotated with the @Target meta-annotation.</description></item><item><title>How to Build Custom Container Images with Podman</title><link>https://wlemuel.github.io/2023/02/08/how-to-build-custom-container-images-with-podman/</link><pubDate>Wed, 08 Feb 2023 13:29:37 +0800</pubDate><guid>https://wlemuel.github.io/2023/02/08/how-to-build-custom-container-images-with-podman/</guid><description>Containers have become an increasingly popular tool for developers and sysadmins to package and deploy applications in a scalable and efficient manner. One of the key benefits of containers is that they allow for the creation of custom images, which can be tailored to meet specific application requirements. In this article, we will explore how to build custom container images using Podman, a popular open-source tool for managing containers.
-1. Understanding Container Images A container image is a lightweight, stand-alone, and executable package of software that includes everything needed to run a piece of software, including the code, runtime, libraries, environment variables, and system tools.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Programming on To be the Light</title><link>https://wlemuel.github.io/series/programming/</link><description>Recent content in Programming on To be the Light</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 09 Feb 2023 18:26:21 +0800</lastBuildDate><atom:link href="https://wlemuel.github.io/series/programming/index.xml" rel="self" type="application/rss+xml"/><item><title>Custom Annotations in Java: Creating and using your own annotations</title><link>https://wlemuel.github.io/2023/02/09/custom-annotations-in-java-creating-and-using-your-own-annotations/</link><pubDate>Thu, 09 Feb 2023 18:26:21 +0800</pubDate><guid>https://wlemuel.github.io/2023/02/09/custom-annotations-in-java-creating-and-using-your-own-annotations/</guid><description>&lt;h2 id="1-dot-introduction-to-annotations-in-java">
+ 1. Introduction to Annotations in Java
+ &lt;a class="heading-link" href="#1-dot-introduction-to-annotations-in-java">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Annotations in Java are metadata that provide additional information about a
+program element, such as a class, method, or field. Annotations are used to
+provide information to the compiler or to other tools, such as code generators
+or libraries, and can be used for a variety of purposes, including defining
+access control, providing information about dependencies, or specifying runtime
+behavior.&lt;/p></description></item><item><title>How to Build Custom Container Images with Podman</title><link>https://wlemuel.github.io/2023/02/08/how-to-build-custom-container-images-with-podman/</link><pubDate>Wed, 08 Feb 2023 13:29:37 +0800</pubDate><guid>https://wlemuel.github.io/2023/02/08/how-to-build-custom-container-images-with-podman/</guid><description>&lt;p>Containers have become an increasingly popular tool for developers and sysadmins
+to package and deploy applications in a scalable and efficient manner. One of
+the key benefits of containers is that they allow for the creation of custom
+images, which can be tailored to meet specific application requirements. In this
+article, we will explore how to build custom container images using Podman, a
+popular open-source tool for managing containers.&lt;/p>
+&lt;h2 id="1-dot-understanding-container-images">
+ 1. Understanding Container Images
+ &lt;a class="heading-link" href="#1-dot-understanding-container-images">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>A container image is a lightweight, stand-alone, and executable package of
+software that includes everything needed to run a piece of software, including
+the code, runtime, libraries, environment variables, and system tools. Container
+images are designed to be portable and can be run on any system that supports
+containers, making it easy to deploy applications across multiple environments.&lt;/p></description></item></channel></rss>

@@ -1,9 +1,109 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>To be the Light</title><link>https://wlemuel.github.io/</link><description>Recent content on To be the Light</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 16 Mar 2023 00:26:14 +0800</lastBuildDate><atom:link href="https://wlemuel.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title> BSD Roots of Linux Command Line Tools: Parameters without "–" Syntax</title><link>https://wlemuel.github.io/2023/03/16/bsd-roots-of-linux-command-line-tools-parameters-without-syntax/</link><pubDate>Thu, 16 Mar 2023 00:26:14 +0800</pubDate><guid>https://wlemuel.github.io/2023/03/16/bsd-roots-of-linux-command-line-tools-parameters-without-syntax/</guid><description>If you&amp;rsquo;ve ever used the command line in Linux, you&amp;rsquo;re probably familiar with the tar command. tar is a command-line utility that is used to create, manipulate, and extract files from archives. One thing you may have noticed about tar and other command line tools in Linux is that they often allow you to specify parameters without the &amp;ndash; syntax commonly used in other systems. For example, in Linux, you can create a tar archive using the following command:</description></item><item><title>ChatGPT: The Revolutionary Chatbot Powered by GPT Technology</title><link>https://wlemuel.github.io/2023/03/03/chatgpt-the-revolutionary-chatbot-powered-by-gpt-technology/</link><pubDate>Fri, 03 Mar 2023 20:22:03 +0800</pubDate><guid>https://wlemuel.github.io/2023/03/03/chatgpt-the-revolutionary-chatbot-powered-by-gpt-technology/</guid><description>Introduction The advancements in machine learning and natural language processing have taken the world by storm. One of the most exciting applications of these technologies is the development of chatbots, which can converse with humans in a natural way. These chatbots come in various shapes and sizes, but ChatGPT stands out as one of the best.
-What is ChatGPT? ChatGPT is a chatbot that uses GPT (Generative Pre-trained Transformer) technology to generate human-like responses to user inputs.</description></item><item><title>Custom Annotations in Java: Creating and using your own annotations</title><link>https://wlemuel.github.io/2023/02/09/custom-annotations-in-java-creating-and-using-your-own-annotations/</link><pubDate>Thu, 09 Feb 2023 18:26:21 +0800</pubDate><guid>https://wlemuel.github.io/2023/02/09/custom-annotations-in-java-creating-and-using-your-own-annotations/</guid><description>1. Introduction to Annotations in Java Annotations in Java are metadata that provide additional information about a program element, such as a class, method, or field. Annotations are used to provide information to the compiler or to other tools, such as code generators or libraries, and can be used for a variety of purposes, including defining access control, providing information about dependencies, or specifying runtime behavior.
-In Java, annotations are created using the @interface keyword and can be applied to any program element that is annotated with the @Target meta-annotation.</description></item><item><title>How to Build Custom Container Images with Podman</title><link>https://wlemuel.github.io/2023/02/08/how-to-build-custom-container-images-with-podman/</link><pubDate>Wed, 08 Feb 2023 13:29:37 +0800</pubDate><guid>https://wlemuel.github.io/2023/02/08/how-to-build-custom-container-images-with-podman/</guid><description>Containers have become an increasingly popular tool for developers and sysadmins to package and deploy applications in a scalable and efficient manner. One of the key benefits of containers is that they allow for the creation of custom images, which can be tailored to meet specific application requirements. In this article, we will explore how to build custom container images using Podman, a popular open-source tool for managing containers.
-1. Understanding Container Images A container image is a lightweight, stand-alone, and executable package of software that includes everything needed to run a piece of software, including the code, runtime, libraries, environment variables, and system tools.</description></item><item><title>Comparing Nginx and Caddy: Which Web Server is Right for Your Needs?</title><link>https://wlemuel.github.io/2023/02/03/comparing-nginx-and-caddy-which-web-server-is-right-for-your-needs/</link><pubDate>Fri, 03 Feb 2023 22:52:36 +0800</pubDate><guid>https://wlemuel.github.io/2023/02/03/comparing-nginx-and-caddy-which-web-server-is-right-for-your-needs/</guid><description>When it comes to choosing a web server, there are many options available, each with its own set of features and advantages. Two of the most popular web servers are Nginx and Caddy, both of which have gained a strong following among developers. In this article, we will compare Nginx and Caddy to help you decide which one is right for your needs.
-1. Features Nginx is a feature-rich web server that supports a wide range of protocols and can be used for a variety of applications.</description></item><item><title>Software Development Trends and Their Impact on the Industry</title><link>https://wlemuel.github.io/2023/02/01/software-development-trends-and-their-impact-on-the-industry/</link><pubDate>Wed, 01 Feb 2023 21:36:27 +0800</pubDate><guid>https://wlemuel.github.io/2023/02/01/software-development-trends-and-their-impact-on-the-industry/</guid><description>Software development is a constantly evolving field, and new trends emerge every year that shape the way software is designed, developed, and used. In this article, we will discuss the latest software development trends and their impact on the industry.
-1. Artificial Intelligence and Machine Learning Artificial Intelligence (AI) and Machine Learning (ML) are becoming increasingly popular in software development. AI and ML algorithms can analyze vast amounts of data, automate repetitive tasks, and provide intelligent insights and recommendations.</description></item><item><title>Tracking down where disk space has gone on Linux</title><link>https://wlemuel.github.io/2020/09/15/tracking-down-where-disk-space-has-gone-on-linux/</link><pubDate>Tue, 15 Sep 2020 18:42:33 +0800</pubDate><guid>https://wlemuel.github.io/2020/09/15/tracking-down-where-disk-space-has-gone-on-linux/</guid><description>As a Linux administrator, I recently encountered a situation where one of my servers was displaying low disk utilization. To rectify the issue, I decided to employ a strategy of decluttering by removing any redundant files, including expired logs.
-In order to accomplish this task, I first established a secure remote connection to the server using ssh. Then, I embarked on the following series of steps to reclaim the precious disk space and restore optimal performance to my Linux system.</description></item><item><title>About Me</title><link>https://wlemuel.github.io/about/</link><pubDate>Sat, 09 May 2020 11:49:22 +0800</pubDate><guid>https://wlemuel.github.io/about/</guid><description>Hi, I&amp;rsquo;m Steve Lemuel. Thank you for visiting my site!
-With a deep-seated passion for software engineering and several years of professional experience under my belt, I have honed my skills in the design, development, and management of software systems and teams. My expertise spans across diverse organizational settings, from established corporations to fledgling startups, where I have demonstrated my ability to deliver high-quality software solutions and to lead development teams with competence and vision.</description></item><item><title>Make TeamViewer Work on Arch Linux</title><link>https://wlemuel.github.io/2020/03/09/make-teamviewer-work-on-arch-linux/</link><pubDate>Mon, 09 Mar 2020 15:36:08 +0800</pubDate><guid>https://wlemuel.github.io/2020/03/09/make-teamviewer-work-on-arch-linux/</guid><description>Problem Description I was trying to setup TeamViewer 15.4 on Arch (manjaro) Linux in office, so that I could remotely connect to it from my home computer, which is a MacBook also running TeamViewer. I had all the login credentials and stuff, but TeamViewer on ArchLinux said &amp;ldquo;Not Ready, Please check your connection&amp;rdquo;. It won&amp;rsquo;t allow me to log in or attempt to connect to anything.
-Then I checked the Internet connection, all worked fine.</description></item><item><title/><link>https://wlemuel.github.io/gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wlemuel.github.io/gallery/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>To be the Light</title><link>https://wlemuel.github.io/</link><description>Recent content on To be the Light</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 16 Mar 2023 00:26:14 +0800</lastBuildDate><atom:link href="https://wlemuel.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title> BSD Roots of Linux Command Line Tools: Parameters without "–" Syntax</title><link>https://wlemuel.github.io/2023/03/16/bsd-roots-of-linux-command-line-tools-parameters-without-syntax/</link><pubDate>Thu, 16 Mar 2023 00:26:14 +0800</pubDate><guid>https://wlemuel.github.io/2023/03/16/bsd-roots-of-linux-command-line-tools-parameters-without-syntax/</guid><description>&lt;p>If you&amp;rsquo;ve ever used the command line in Linux, you&amp;rsquo;re probably familiar with the
+tar command. tar is a command-line utility that is used to create, manipulate,
+and extract files from archives. One thing you may have noticed about tar and
+other command line tools in Linux is that they often allow you to specify
+parameters without the &amp;ndash; syntax commonly used in other systems. For example, in
+Linux, you can create a tar archive using the following command:&lt;/p></description></item><item><title>ChatGPT: The Revolutionary Chatbot Powered by GPT Technology</title><link>https://wlemuel.github.io/2023/03/03/chatgpt-the-revolutionary-chatbot-powered-by-gpt-technology/</link><pubDate>Fri, 03 Mar 2023 20:22:03 +0800</pubDate><guid>https://wlemuel.github.io/2023/03/03/chatgpt-the-revolutionary-chatbot-powered-by-gpt-technology/</guid><description>&lt;h2 id="introduction">
+ Introduction
+ &lt;a class="heading-link" href="#introduction">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>The advancements in machine learning and natural language processing have taken
+the world by storm. One of the most exciting applications of these technologies
+is the development of chatbots, which can converse with humans in a natural
+way. These chatbots come in various shapes and sizes, but ChatGPT stands out as
+one of the best.&lt;/p>
+&lt;h2 id="what-is-chatgpt">
+ What is ChatGPT?
+ &lt;a class="heading-link" href="#what-is-chatgpt">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>ChatGPT is a chatbot that uses GPT (Generative Pre-trained Transformer)
+technology to generate human-like responses to user inputs. GPT is a machine
+learning model that has been pre-trained on a massive corpus of text data. This
+pre-training allows GPT to generate coherent and contextually appropriate
+responses to user inputs. ChatGPT builds on this technology to create a chatbot
+that can carry out conversations with users in a natural and seamless way.&lt;/p></description></item><item><title>Custom Annotations in Java: Creating and using your own annotations</title><link>https://wlemuel.github.io/2023/02/09/custom-annotations-in-java-creating-and-using-your-own-annotations/</link><pubDate>Thu, 09 Feb 2023 18:26:21 +0800</pubDate><guid>https://wlemuel.github.io/2023/02/09/custom-annotations-in-java-creating-and-using-your-own-annotations/</guid><description>&lt;h2 id="1-dot-introduction-to-annotations-in-java">
+ 1. Introduction to Annotations in Java
+ &lt;a class="heading-link" href="#1-dot-introduction-to-annotations-in-java">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Annotations in Java are metadata that provide additional information about a
+program element, such as a class, method, or field. Annotations are used to
+provide information to the compiler or to other tools, such as code generators
+or libraries, and can be used for a variety of purposes, including defining
+access control, providing information about dependencies, or specifying runtime
+behavior.&lt;/p></description></item><item><title>How to Build Custom Container Images with Podman</title><link>https://wlemuel.github.io/2023/02/08/how-to-build-custom-container-images-with-podman/</link><pubDate>Wed, 08 Feb 2023 13:29:37 +0800</pubDate><guid>https://wlemuel.github.io/2023/02/08/how-to-build-custom-container-images-with-podman/</guid><description>&lt;p>Containers have become an increasingly popular tool for developers and sysadmins
+to package and deploy applications in a scalable and efficient manner. One of
+the key benefits of containers is that they allow for the creation of custom
+images, which can be tailored to meet specific application requirements. In this
+article, we will explore how to build custom container images using Podman, a
+popular open-source tool for managing containers.&lt;/p>
+&lt;h2 id="1-dot-understanding-container-images">
+ 1. Understanding Container Images
+ &lt;a class="heading-link" href="#1-dot-understanding-container-images">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>A container image is a lightweight, stand-alone, and executable package of
+software that includes everything needed to run a piece of software, including
+the code, runtime, libraries, environment variables, and system tools. Container
+images are designed to be portable and can be run on any system that supports
+containers, making it easy to deploy applications across multiple environments.&lt;/p></description></item><item><title>Comparing Nginx and Caddy: Which Web Server is Right for Your Needs?</title><link>https://wlemuel.github.io/2023/02/03/comparing-nginx-and-caddy-which-web-server-is-right-for-your-needs/</link><pubDate>Fri, 03 Feb 2023 22:52:36 +0800</pubDate><guid>https://wlemuel.github.io/2023/02/03/comparing-nginx-and-caddy-which-web-server-is-right-for-your-needs/</guid><description>&lt;p>When it comes to choosing a web server, there are many options available, each
+with its own set of features and advantages. Two of the most popular web servers
+are Nginx and Caddy, both of which have gained a strong following among
+developers. In this article, we will compare Nginx and Caddy to help you decide
+which one is right for your needs.&lt;/p>
+&lt;h2 id="1-dot-features">
+ 1. Features
+ &lt;a class="heading-link" href="#1-dot-features">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Nginx is a feature-rich web server that supports a wide range of protocols and
+can be used for a variety of applications. Some of the key features of Nginx
+include its ability to handle high levels of traffic, its support for multiple
+protocols (e.g. HTTP, HTTPS, SMTP, IMAP, etc.), and its support for load
+balancing and reverse proxy. Nginx is also known for its stability, reliability,
+and efficiency, making it a popular choice for high-traffic websites.&lt;/p></description></item><item><title>Software Development Trends and Their Impact on the Industry</title><link>https://wlemuel.github.io/2023/02/01/software-development-trends-and-their-impact-on-the-industry/</link><pubDate>Wed, 01 Feb 2023 21:36:27 +0800</pubDate><guid>https://wlemuel.github.io/2023/02/01/software-development-trends-and-their-impact-on-the-industry/</guid><description>&lt;p>Software development is a constantly evolving field, and new trends emerge every
+year that shape the way software is designed, developed, and used. In this
+article, we will discuss the latest software development trends and their impact
+on the industry.&lt;/p>
+&lt;h2 id="1-dot-artificial-intelligence-and-machine-learning">
+ 1. Artificial Intelligence and Machine Learning
+ &lt;a class="heading-link" href="#1-dot-artificial-intelligence-and-machine-learning">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Artificial Intelligence (AI) and Machine Learning (ML) are becoming
+increasingly popular in software development. AI and ML algorithms can analyze
+vast amounts of data, automate repetitive tasks, and provide intelligent
+insights and recommendations. They are being used in a variety of
+applications, such as natural language processing, computer vision, and
+predictive analytics. With the increasing demand for AI and ML applications,
+developers are now able to create more sophisticated and user-friendly
+software that can be used across a wide range of industries.&lt;/p></description></item><item><title>Tracking down where disk space has gone on Linux</title><link>https://wlemuel.github.io/2020/09/15/tracking-down-where-disk-space-has-gone-on-linux/</link><pubDate>Tue, 15 Sep 2020 18:42:33 +0800</pubDate><guid>https://wlemuel.github.io/2020/09/15/tracking-down-where-disk-space-has-gone-on-linux/</guid><description>&lt;p>As a Linux administrator, I recently encountered a situation where one of my
+servers was displaying low disk utilization. To rectify the issue, I decided to
+employ a strategy of decluttering by removing any redundant files, including
+expired logs.&lt;/p>
+&lt;p>In order to accomplish this task, I first established a secure remote connection
+to the server using ssh. Then, I embarked on the following series of steps to
+reclaim the precious disk space and restore optimal performance to my Linux
+system.&lt;/p></description></item><item><title>About Me</title><link>https://wlemuel.github.io/about/</link><pubDate>Sat, 09 May 2020 11:49:22 +0800</pubDate><guid>https://wlemuel.github.io/about/</guid><description>&lt;p>Hi, I&amp;rsquo;m &lt;strong>Steve Lemuel&lt;/strong>. Thank you for visiting my site!&lt;/p>
+&lt;p>With a deep-seated passion for software engineering and several years of professional experience under my belt, I have honed my skills in the design, development, and management of software systems and teams. My expertise spans across diverse organizational settings, from established corporations to fledgling startups, where I have demonstrated my ability to deliver high-quality software solutions and to lead development teams with competence and vision.&lt;/p></description></item><item><title>Make TeamViewer Work on Arch Linux</title><link>https://wlemuel.github.io/2020/03/09/make-teamviewer-work-on-arch-linux/</link><pubDate>Mon, 09 Mar 2020 15:36:08 +0800</pubDate><guid>https://wlemuel.github.io/2020/03/09/make-teamviewer-work-on-arch-linux/</guid><description>&lt;h1 id="problem-description">
+ Problem Description
+ &lt;a class="heading-link" href="#problem-description">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h1>
+&lt;p>I was trying to setup TeamViewer 15.4 on Arch (manjaro) Linux in office, so that I could remotely connect to it from my home computer, which is a MacBook also running TeamViewer. I had all the login credentials and stuff, but TeamViewer on ArchLinux said &amp;ldquo;Not Ready, Please check your connection&amp;rdquo;. It won&amp;rsquo;t allow me to log in or attempt to connect to anything.&lt;/p></description></item><item><title/><link>https://wlemuel.github.io/gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://wlemuel.github.io/gallery/</guid><description/></item></channel></rss>
